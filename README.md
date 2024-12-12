@@ -2,6 +2,11 @@
 Places an NPC in each starting zone that allows players to select a different starting zone if they want.  For example, Orc can start in Sunstrider Isle.
 
 
+
+https://github.com/user-attachments/assets/4d3c3a0f-496f-4320-96da-65d25b8a5f30
+
+
+
 # Setup
 
 - First, your server and client need to have AIO And Eluna set up or the scripts will not work:  https://github.com/Rochet2/AIO

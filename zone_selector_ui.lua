@@ -112,7 +112,7 @@ function ZoneSelector_ShowUI(zones)
         button.glow = glow
 
         -- Border
-        local border = CreateFrame("Frame", nil, button, "BackdropTemplate")
+        local border = CreateFrame("Frame", nil, button, BackdropTemplateMixin and "BackdropTemplate")
         border:SetPoint("TOPLEFT", -3, 3)
         border:SetPoint("BOTTOMRIGHT", 3, -3)
         border:SetBackdrop({
